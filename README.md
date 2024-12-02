@@ -12,3 +12,4 @@ Veer App is a modern web application (add more specific details about what your 
 
 ### Installation
 1. Clone the repository
+# veer-app
