@@ -1,3 +1,5 @@
+Claude beats Aider
+
 # Veer App
 
 ## Description
