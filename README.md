@@ -1,4 +1,4 @@
-Claude beats Aider
+Aider beats Claude
 
 # Veer App
 
